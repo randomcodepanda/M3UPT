@@ -1,4 +1,4 @@
-name: Update streams
+name: Test workflow
 on:
   schedule:
     - cron: "0 * * * *"
