@@ -21,7 +21,6 @@ jobs:
 
       - name: commit
         run: |
-          git pull
           cd test && git add *.m3u
-          git commit -m "Update streams"
+          git commit -m "Short M3UPT"
           git push origin main
