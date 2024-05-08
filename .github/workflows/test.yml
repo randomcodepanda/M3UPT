@@ -16,11 +16,11 @@ jobs:
 
       - name: setup git config
         run: |
-          git config user.name "🚀 HAL 9000"
+          git config user.name "Github Action Bot"
           git config user.email "<>"
 
       - name: commit
         run: |
           cd test && git add *.m3u
-          git commit -m "Short M3UPT"
+          git diff-index --quiet HEAD || git commit -m "Short M3UPT"
           git push origin main
