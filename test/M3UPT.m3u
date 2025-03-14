@@ -4,10 +4,17 @@
 
 # 📺 TV
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1 (encriptado com DRM)
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
+http://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=IE
-http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+#http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,10 +26,17 @@ http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=IE
 #http://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
+http://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
+
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2 (encriptado com DRM)
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=IE
-http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+#http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -40,7 +54,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDg6Njo0NyBQTSZoYXNoX3ZhbHVlPXcyV3lMelFJT0ZjTGJYQkRhWlZneXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZmYxZDBiYi04NTQxLTQ0NjItYmVmZi05ZjE3NDNhNTc2NjA=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDEwOjU6NDggUE0maGFzaF92YWx1ZT1iNHM4MktXUFlxc05wUWhhQTVGUEhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTNlNzM0NGMtNTgwYS00NjlhLTg4MmYtMjY0ZDg4MDAzMGEz/
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=IE
@@ -69,7 +83,7 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 
 #EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDg6Njo0NyBQTSZoYXNoX3ZhbHVlPUtSYzlJdjhqSWNWMjdnTkFMNzhLZmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iM2UyODNlMS02YmVlLTRhMjYtYjcwMC01Y2U1MzYzYjY0YWM=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDEwOjU6NDggUE0maGFzaF92YWx1ZT0zcmJNdjVsalgwbTVCQ2ZEUVlBTEtnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YmI5OTEwZTktODBiNS00NDJlLThjODAtMGZiMzFmY2FhNzFh/
 
 #EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
@@ -78,17 +92,3 @@ https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b
 #EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #https://youtu.be/XuZAl-ZPEcA
 
-#EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
-#KODIPROP:inputstream=inputstream.adaptive
-https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live-app.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
-#EXTVLCOPT:http-user-agent=IE
