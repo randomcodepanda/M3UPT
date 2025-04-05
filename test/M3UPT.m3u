@@ -70,7 +70,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNDo3OjM3IEFNJmhhc2hfdmFsdWU9SGVMNVFkclhIWlRCRlpDYVBhNzRXdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTRmMWRkOWVkLTBmNTAtNGYwMC1hNzRkLTk2MmE1OWIzZGMzYg==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNjo4OjkgQU0maGFzaF92YWx1ZT1JNGkrRkJ2SWNJaXJ6ZVJsSGhlM1ZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWM2NGIzODctMTY2MC00MTI0LWE5OGQtZTJhNThmZjU4Mzdk/
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
