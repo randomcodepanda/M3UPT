@@ -24,7 +24,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDY6Nzo2IFBNJmhhc2hfdmFsdWU9UVdHNytKbTMyVnlhR043SDFwRDUzUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU2NmU3NTk0LThjYjktNGEwNS05MGI5LTRhNWVmMTBiODFiYQ==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6Nzo1NiBQTSZoYXNoX3ZhbHVlPWNhejBQNjBBS3ZwT2ZvTUJmV21DUlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jY2MzNjczZC02YWRiLTQ2MmQtYTc2Yy0yOGFjYjY2NzA1NTc=/
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
@@ -46,15 +46,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=RTP Play/2.0.57 (Linux;Android 11) ExoPlayerLib/2.11.8
+#KODIPROP:inputstream=inputstream.adaptive
 #https://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=RTP Play/2.0.57 (Linux;Android 11) ExoPlayerLib/2.11.8
+#KODIPROP:inputstream=inputstream.adaptive
 #https://streaming-live-app.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
@@ -64,7 +62,7 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 
 #EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDY6Nzo2IFBNJmhhc2hfdmFsdWU9L2NIZThMYWliL3I3Z2dES2U2Q2N4Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI3MDI2ZTZhLWViYTYtNDBjMS04YjM2LWY4YzNhNzRkZWQ0ZA==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6Nzo1NyBQTSZoYXNoX3ZhbHVlPTQxY2g4N29nMkgwZFQ1Y3YvSVpKNVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jNmU3MWRmYi0wYjE5LTRjYWItYWExZC0wYWNkNDMxN2NlM2U=/
 
 #EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
@@ -91,9 +89,8 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=RTP Play/2.0.57 (Linux;Android 11) ExoPlayerLib/2.11.8
+#KODIPROP:inputstream=inputstream.adaptive
 #https://streaming-live-app.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
@@ -102,9 +99,8 @@ https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=RTP Play/2.0.57 (Linux;Android 11) ExoPlayerLib/2.11.8
+#KODIPROP:inputstream=inputstream.adaptive
 #https://streaming-live-app.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
@@ -113,13 +109,17 @@ https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=RTP Play/2.0.57 (Linux;Android 11) ExoPlayerLib/2.11.8
+#KODIPROP:inputstream=inputstream.adaptive
 #https://streaming-live-app.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
+#EXTVLCOPT:http-user-agent=RTP Play/2.0.57 (Linux;Android 11) ExoPlayerLib/2.11.8
+#KODIPROP:inputstream=inputstream.adaptive
+#https://streaming-live-app.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 
