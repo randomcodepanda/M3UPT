@@ -24,7 +24,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #EXTVLCOPT:http-user-agent=Firefox
-https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI.m3u
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rtpnoticias.png",RTP Notícias
 #EXTVLCOPT:http-user-agent=Firefox
@@ -40,7 +40,7 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #EXTVLCOPT:http-user-agent=Firefox
-https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/CNN_Portugal.m3u
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
@@ -49,9 +49,6 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
 #https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiYTczODFmMGMtYjk4Ni00ODc1LWIzMDYtN2E3MTdlZDgxZTQxIiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ%3D%3D/26035/euronews-pt.m3u8
 https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/aa7d84c5-ed1b-4706-aa89-11c525faf07d/5.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png",Euronews PT
-#https://youtu.be/XuZAl-ZPEcA
 
 #EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
@@ -88,22 +85,22 @@ https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #EXTVLCOPT:http-user-agent=Firefox
-https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Internacional.m3u
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
 #https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
 #EXTVLCOPT:http-user-agent=Firefox
-https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/Vmais_TVI.m3u
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/Vmais_TVI.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 #EXTVLCOPT:http-user-agent=Firefox
-https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Ficcao.m3u
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Ficcao.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 #EXTVLCOPT:http-user-agent=Firefox
-https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Reality.m3u
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Reality.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SICReplay.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Replay.png",SIC Replay
 #EXTVLCOPT:http-user-agent=Firefox
@@ -122,4 +119,7 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 
 #EXTINF:-1 group-title="TV" tvg-id="Famatv.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RFPtv.pt" tvg-logo="https://www.rfptv.pt/storage/479/config/MYvhCGImba3MPCwmRu2pZgGkFhy2L6tkTLsSO3LN.png",RFPtv
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 
